@@ -1,3 +1,4 @@
+
 import copy, numpy as np
 np.random.seed(0)
 
@@ -16,14 +17,13 @@ int2binary = {}
 binary_dim = 8
 
 largest_number = pow(2,binary_dim)
-binary = np.unpackbits(
-    np.array([range(largest_number)],dtype=np.uint8).T,axis=1)
+binary = np.unpackbits(np.array([range(largest_number)],dtype=np.uint8).T,axis=1)
 for i in range(largest_number):
     int2binary[i] = binary[i]
 
 
 # input variables
-alpha = 0.1
+alpha = 0.1       #learning rate
 input_dim = 2
 hidden_dim = 16
 output_dim = 1
