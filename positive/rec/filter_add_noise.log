@@ -1,0 +1,56 @@
+Program started on: Fri Jul  1 20:47:14 2016
+------------------------------------------------------
+ Input list file: input.list
+ Output list file: output.list
+ Log file: filter_add_noise.log
+ Processing of 16 kHz data
+ Adding noise file subway.raw at a SNR of  10.00 dB
+ Speech and noise level are calculated after G.712 filtering
+ 21248 noise samples loaded from subway.raw
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:dxj1.wav  s-level:-29.34  1st noise sample:7931  n-level:-41.69
+ --------------------------------------------------------------------------
+
+Program started on: Fri Jul  1 21:35:39 2016
+------------------------------------------------------
+ Input list file: input.list
+ Output list file: output.list
+ Log file: filter_add_noise.log
+ Processing of 16 kHz data
+ Adding noise file subway.raw at a SNR of  10.00 dB
+ Speech and noise level are calculated after G.712 filtering
+ 21248 noise samples loaded from subway.raw
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:dxj1.wav  s-level:-29.34  1st noise sample:4136  n-level:-42.81
+ --------------------------------------------------------------------------
+
+Program started on: Fri Jul  1 21:38:17 2016
+------------------------------------------------------
+ Input list file: input.list
+ Output list file: output.list
+ Log file: filter_add_noise.log
+ Processing of 16 kHz data
+ Adding noise file subway.raw at a SNR of  10.00 dB
+ Speech and noise level are calculated after G.712 filtering
+ 21248 noise samples loaded from subway.raw
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:dxj1.raw  s-level:-30.05  1st noise sample:652  n-level:-43.64
+ --------------------------------------------------------------------------
+
+Program started on: Sat Jul  2 00:33:40 2016
+------------------------------------------------------
+ Input list file: input.list
+ Output list file: output.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Adding noise file subway.raw at a SNR of  20.00 dB
+ Speech and noise level are calculated after G.712 filtering
+ 21248 noise samples loaded from subway.raw
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:dxj1.raw  s-level:-34.58  1st noise sample:2783  n-level:-42.27
+ --------------------------------------------------------------------------
+
